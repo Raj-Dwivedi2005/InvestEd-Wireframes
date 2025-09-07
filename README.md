@@ -41,10 +41,18 @@ By making investor education **interactive, personalized, and accessible**, Inve
 ## 🖼 Wireframe Preview
 Here are the mock-ups created in Figma:
 
+### Login  
 ![Login](login.png)  
+
+ ### Dashboard  
 ![Dashboard](dashboard.png)  
-![Lesson](lesson.png)  
-![Chatbot](chatbot.png)  
+
+### Lesson Screen  
+![Lesson](lesson.png) 
+
+
+### AI Chatbot  
+![Chatbot](chatbot.png) 
 
 ---
 
